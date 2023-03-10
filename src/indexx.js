@@ -1,6 +1,6 @@
 import './css/styles.css';
 import './components/markup';
-import Notiflix from 'notiflix';
+// import Notiflix from 'notiflix';
 
 // import _ from 'lodash.debounce';
 const debounce = require('lodash.debounce');
